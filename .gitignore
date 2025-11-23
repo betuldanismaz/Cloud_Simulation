@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+.env/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Environment variables
+.env
+.env.local
+
+# Model files (büyük dosyalar)
+*.zip
+*.h5
+*.pkl
